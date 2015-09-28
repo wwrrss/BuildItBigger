@@ -1,8 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- This meta-data tag is required to use Google Play Services. -->
 
-    <application>
-        <activity android:name="com.udacity.gradle.builditbigger.MainPaidActivity"
-            android:label="@string/title_activity_main_paid"></activity>
-    </application>
+
 
 </manifest>
