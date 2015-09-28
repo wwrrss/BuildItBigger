@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradle for Android and Java Final Project
 
 In this project, you will create an app with multiple flavors that uses
@@ -135,3 +136,7 @@ To receive "exceeds specifications", your app must fully implement all of the fo
 * The free app variant displays interstitial ads between the main activity and the joke-displaying activity.
 * The app displays a loading indicator while the joke is being fetched from the server.
 * The root build.gradle file contains a task that will start up the GCE development server, run all Android tests, then shutdown the development server.
+=======
+# BuildItBigger
+Android multi module project 
+>>>>>>> 4826c652b99f7a51f2b055b85c66880eeca33b49
